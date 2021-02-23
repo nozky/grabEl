@@ -1,10 +1,5 @@
 # GrabEl
  
- Author: Norvillie Villaruel\
- email: norvillie.villaruel@edu.sait.ca\
- License: Open Source\
- Version: 0.1\
- Date: feb 2021
 
  --- 
 ## What!?
@@ -25,6 +20,7 @@ example.
 
 
  ***My own opinion and no scientific basis***
+ 
 Why id's? to differentiate id just for user interaction
 and use class for just presentation.
 
@@ -64,3 +60,13 @@ import { GrabEl } from '../util/GrabEl.mjs';
 ---
 **There are a lot of way to achieve this for sure.**
 >I dont know if this make any sense, if there any light util that does this, please let me know.
+
+---
+ Author: Norvillie Villaruel\
+ email: norvillie.villaruel@edu.sait.ca\
+ License: Open Source\
+ Version: 0.1\
+ Date: feb 2021
+
+
+
