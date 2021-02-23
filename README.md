@@ -12,7 +12,7 @@ It will only select elements with @prefix at the start of an id attribute.
 
 
 
-In your HTML, you must use 'id' attribute and attach '@' prefix to id name. 
+In your HTML, you must use 'id' attribute in any of your element you want to target and attach '@' prefix to id name. 
 
 example.
  ` <div id="@name">Name</div>`
