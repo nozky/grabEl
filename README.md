@@ -1,9 +1,9 @@
 # GrabEl
  
- Author: Norvillie Villaruel
- email: norvillie.villaruel@edu.sait.ca
- License: Open Source
- Version: 0.1
+ Author: Norvillie Villaruel\
+ email: norvillie.villaruel@edu.sait.ca\
+ License: Open Source\
+ Version: 0.1\
  Date: feb 2021
 
  --- 
