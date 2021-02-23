@@ -18,16 +18,16 @@ example.
  ` <div id="@name">Name</div>`
  ` <button id="@btn-name">Button</button>`
 
-
+---
  ***My own opinion and no scientific basis***
- 
+
 Why id's? to differentiate id just for user interaction
 and use class for just presentation.
 
 
 
 
-
+---
 ### Implementation
 You dont need to include '@' in your argument, only in the html.
 
